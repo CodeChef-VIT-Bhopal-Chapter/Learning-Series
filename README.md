@@ -9,7 +9,7 @@ If you're a beginner to CP, this is everything you need. If you're a seasoned ex
 ## Beginner Track
 
 ### Topics covered - User Input/Output, Loops, Conditions, Data Types, etc.
- - [ ] Learning Resources
+ - [ ] [Learning Resources](https://github.com/CodeChef-VIT-Bhopal-Chapter/Learning-Series/blob/main/Beginner/Nov%202020_Beginner_Content.docx)
 	 - [ ] Practice Question SET-1
 	 - [ ] Practice Question SET-2
 	 - [ ] Practice Question SET-3
@@ -17,7 +17,7 @@ If you're a beginner to CP, this is everything you need. If you're a seasoned ex
 ## Intermediate Track
 
 ### Topics covered - Binary Search and Recursion!
- - [ ] Learning Resources
+ - [ ] [Learning Resources](https://github.com/CodeChef-VIT-Bhopal-Chapter/Learning-Series/blob/main/Intermediate/Nov%202020_Intermediate_Content.docx)
 	 - [ ] Practice Question SET-1
 	 - [ ] Practice Question SET-2
 	 - [ ] Practice Question SET-3
@@ -25,7 +25,7 @@ If you're a beginner to CP, this is everything you need. If you're a seasoned ex
 ## Advance Track
 
 ### Topics covered - Fenwick Tree and Simple Segment Tree!
- - [ ] Learning Resources
+ - [ ] [Learning Resources](https://github.com/CodeChef-VIT-Bhopal-Chapter/Learning-Series/blob/main/Advance/Nov%202020_Advanced_Content.docx)
 	 - [ ] Practice Question SET-1
 	 - [ ] Practice Question SET-2
 	 - [ ] Practice Question SET-3
